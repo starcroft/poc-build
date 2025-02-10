@@ -32,6 +32,5 @@ jobs:
         platforms: linux/amd64
         push: true
         tags: |
-          starcroft/poctest:1.1
           ghcr.io/starcroft/poctest:1.1
       
