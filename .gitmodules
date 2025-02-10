@@ -1,0 +1,7 @@
+[submodule "config"]
+	path = config
+	url = https://github.com/starcroft/poc-config
+	branch = 1.1
+[submodule "dockerfile"]
+	path = dockerfile
+	url = https://github.com/starcroft/poc-dockerfile
