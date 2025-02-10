@@ -34,6 +34,4 @@ jobs:
         tags: |
           starcroft/poctest:1.1
           ghcr.io/starcroft/poctest:1.1
-        
-    - name: Build the Docker image
-      run: docker build . --file dockerfile/Dockerfile --tag my-image-name:$(date +%s)
+      
